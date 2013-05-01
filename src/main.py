@@ -1,6 +1,4 @@
 #!/usr/bin/python2.7
-#
-# Copyright (C) 2012 Canaryware Inc.
 
 __author__ = ('David Bremner <david@canaryware.com>')
 
